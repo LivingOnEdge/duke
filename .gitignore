@@ -12,6 +12,4 @@ src/main/resources/docs/
 .DS_Store
 *.iml
 *.class
-list.txt
-vocabulary.txt
 bin/
